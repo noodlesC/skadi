@@ -1,6 +1,24 @@
 # # SKADI - 斯嘉蒂之眼，俗称 冰眼。 本项目为搜索引擎相关性结果可视化而开发。
 
 > search score 
+>
+查看仓库可以使用:
+
+npm -g i nrm //install nrm
+
+nrm ls
+
+执行 nrm add caigou http://mirrors-front.cai-inc.com/
+
+nrm ls 
+
+npm ---- https://registry.npmjs.org/
+cnpm --- http://r.cnpmjs.org/
+taobao - https://registry.npm.taobao.org/
+nj ----- https://registry.nodejitsu.com/
+rednpm - http://registry.mirror.cqupt.edu.cn/
+npmMirror https://skimdb.npmjs.com/registry/
+edunpm - http://registry.enpmjs.org/
 
 
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
